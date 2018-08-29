@@ -1,3 +1,21 @@
 here is some text
 
 My 3rd commit. Still trying to figure out what exactly I'm supposed to type in order to push this onto my repo
+
+It seems I have to git commit -m ""
+and then git push origin? or can I just git push origin
+	this is 4th commit, trying without git commit -m""
+	to see if I only need to git push origin
+
+Wait no that's dumb you have to commit in order to push right?
+	this is still 4th commit,
+
+Break down:
+
+	first commit successful > I don't know how I did it
+	second commit commited but no change to the txt therefore update > same
+	3rd commit successful > figured out what to type. Trying to figure out what 		triggers the push
+
+	4th commit (attempt) > I realize you have to git commit -m "" in order to git push 	origin but wondering if I have to git more stuff even before that.
+	
+Actual 4th commit, git commit -m "" then git push origin
