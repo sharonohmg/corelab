@@ -19,3 +19,19 @@ Break down:
 	4th commit (attempt) > I realize you have to git commit -m "" in order to git push 	origin but wondering if I have to git more stuff even before that.
 	
 Actual 4th commit, git commit -m "" then git push origin
+
+Turns out there's 3 gits that you have to input before being able to commit and push.
+I figured it out through my 2nd attempt at 4th commit/push
+
+This will be my 5th push:
+final message:
+	
+	How to push txt into the repo
+	1. modify txt
+	2. save txt
+	3. open terminal
+	4. /Users/onyx/Documents
+	5. cd corelab
+	6. git add .
+	7. git commit -m ""
+	8. git push origin
