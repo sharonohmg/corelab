@@ -38,3 +38,5 @@ final message:
 
 
 remote origin master?
+
+Something about you shouldn't overwrite files and rather have versions of files but I'm rewriting everything. When I git add ., there is a deletion. Idk if that's supposed to happen. 
